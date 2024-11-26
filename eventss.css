@@ -1,0 +1,22 @@
+body{
+  background-color: #131720;
+  font-family: sans-serif;
+  
+}
+h1{
+  
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px 14px;
+  text-decoration:none;
+  font-size: 3.0rem;
+  font-style: italic;
+  font-family: azonix;
+}
+.cards{
+  background-color: #151f30;
+  padding: 20px;
+  border-radius: 22px;
+  height: 40px;
+}
